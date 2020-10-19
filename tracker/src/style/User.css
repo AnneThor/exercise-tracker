@@ -1,0 +1,28 @@
+#user-container {
+  margin: 10px 10px;
+  padding: 10px 15px;
+  display: flex;
+  flex-direction: column;
+  max-width: 350px;
+  height: auto;
+  background-color: #8FBC8F;
+  border-radius: 10px;
+}
+
+#user-container h2 {
+  margin: 0 0 5px 0;
+}
+
+#user-container input {
+  margin: 5px 0px;
+}
+
+
+#user-container p {
+  text-align: left;
+}
+
+#user-container ul {
+  list-style-type: none;
+  text-align: left;
+}

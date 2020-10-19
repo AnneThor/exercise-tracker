@@ -1,0 +1,33 @@
+#user-log-container {
+  margin: 10px 10px;
+  padding: 10px 15px;
+  display: flex;
+  flex-direction: column;
+  max-width: 350px;
+  height: auto;
+  background-color: #8FBC8F;
+  border-radius: 10px;
+}
+
+#exercise-lookup-form input {
+  margin: 5px 0px;
+}
+
+.exercise-list {
+  list-style-type: decimal;
+  text-align: left;
+}
+
+.exercise-list-item {
+
+}
+
+.exercise-list-item p {
+  margin: 0px 0px;
+}
+
+.exercise-list-name{}
+
+#exercise-log-title {
+  font-weight: bold;
+}

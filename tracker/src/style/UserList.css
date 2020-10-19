@@ -1,0 +1,29 @@
+#user-display {
+
+}
+
+.toggle-switch {
+  align-text: left;
+}
+
+.toggle-switch-checkbox {
+
+}
+
+.toggle-switch-label {}
+
+.user-list {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.user-list-item {
+  text-align: left;
+}
+
+.user-list-name {
+  padding-top: 0;
+  padding-bottom: 0;
+  margin-top: 0;
+  margin-bottom: 0;
+}
